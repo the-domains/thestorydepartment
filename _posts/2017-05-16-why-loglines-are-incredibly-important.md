@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: "Loglines can predict failures. This week, I watched a movie where the writer had not adopted\_critical notes. The film failed. I’m not saying that it would have succeeded if he had heeded the\_advice. If only things were that simple."
-dateModified: '2017-05-16T22:26:59.048Z'
-datePublished: '2017-05-16T22:27:01.407Z'
+dateModified: '2017-05-16T22:27:27.632Z'
+datePublished: '2017-05-16T22:27:28.570Z'
 title: Why Loglines Are Incredibly Important
 author: []
 publisher:
@@ -12,16 +12,17 @@ publisher:
     https://thestorydepartment.com/wp-content/uploads/2016/12/apple-icon-57x57.png
   domain: thestorydepartment.com
 via: {}
-isBasedOnUrl: 'https://thestorydepartment.com/5-reasons-loglines-incredibly-important/'
+sourcePath: _posts/2017-05-16-why-loglines-are-incredibly-important.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-05-16T22:27:01.407Z'
-sourcePath: _posts/2017-05-16-why-loglines-are-incredibly-important.md
-_type: MediaObject
+url: why-loglines-are-incredibly-important/index.html
+_type: Article
 
 ---
 # Why Loglines Are Incredibly Important
 
-<article style=""><img src="https://thestorydepartment.com/wp-content/uploads/2017/04/Logline-It-Event-3.jpg" /><h1>5 Reasons Why Loglines Are Incredibly Important</h1><p>Loglines can predict failures. This week, I watched a movie where the writer had not adopted critical notes. The film failed. I'm not saying that it would have succeeded if he had heeded the advice. If only things were that simple. The draft I read could be summarised in a one sentence logline.</p></article>
+<article style=""><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/709fd2ef45c2765ce32a2897d124ce2f/noop.jpg?input=https%3A%2F%2Fthestorydepartment.com%2Fwp-content%2Fuploads%2F2017%2F04%2FLogline-It-Event-3.jpg" /><h1>5 Reasons Why Loglines Are Incredibly Important</h1><p>Loglines can predict failures. This week, I watched a movie where the writer had not adopted critical notes. The film failed. I'm not saying that it would have succeeded if he had heeded the advice. If only things were that simple. The draft I read could be summarised in a one sentence logline.</p></article>
 
 **Loglines can predict failures. This week, I watched a movie where the writer had not adopted critical notes. The film failed. I'm not saying that it would have succeeded if he had heeded the advice. If only things were that simple.**
 
