@@ -1,0 +1,30 @@
+typography_spectrum: 0.372544169658795
+color:
+  brandStrength: 0.1986653443891555
+  lightness: 0.8372757628094405
+  saturation: 0.9428567737340927
+  rhythmicContrast: 0.9210488481912762
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+github: true
+layout_spectrum: 0.8808403729926795
+name: TheStoryDepartment
+navigation:
+  - name: The Master Blog
+    url: 'http://www.thestorydepartment.com'
+    type: external
+title: Immersion Screenwriting
+description: 'Your intensive, future-proof and free writing course with Karel Segers'
+content: []
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/58971baa-7476-4069-a940-b6e9dd2f19c5.png
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/dd728be0-4a54-49a8-8ec3-6207e40b6d8e.png
+author:
+  name: Karel Segers
+  email: k@tsd.im
+  url: 'http://screenwriting.net.au'
